@@ -1,8 +1,8 @@
 # Akka cluster Sharding Example
-This is the code for [this](https://www.google.com) blog entry.
+This is the code for [this](http://thedeveloperpath.com/akka-cluster-sharding-2/) blog entry.
 
 ### Run: 
-Main method accepts two arguments : port for remote connections and a "input" flag
+Main method accepts two arguments : **port** for remote connections and a **input** flag
 
 * **sbt "runMain com.sharding.Main 3000"**: This will run the program with akka remote listening in the 3000 port.
 
